@@ -1,4 +1,5 @@
 // Detecting mouse click.
+// Victor Matheus Bertonha
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 
 for (var i = 0; i < numberOfDrumButtons; i++) {
